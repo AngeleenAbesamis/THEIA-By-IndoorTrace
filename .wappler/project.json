@@ -1,7 +1,13 @@
 {
   "projectName": "THEIA-By-IndoorTrace",
   "gitURL": "https://github.com/AngeleenAbesamis/THEIA-By-IndoorTrace.git",
-  "firebaseProjectID": "",
-  "herokuProjectID": "",
-  "projectType": "app"
+  "projectType": "app",
+  "designFramework": "bootstrap5",
+  "useRouting": true,
+  "routingHandler": "framework7",
+  "appFile": "/js/app.js",
+  "routingFile": "/js/routes.js",
+  "assetsFolder": "/assets",
+  "styleFile": "/css/app.css",
+  "frameworks": []
 }

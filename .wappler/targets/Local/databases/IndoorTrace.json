@@ -1,0 +1,12 @@
+{
+  "type": "postgres",
+  "connection": {
+    "host": "queenie.db.elephantsql.com",
+    "port": 5432,
+    "user": "jmtkaocv",
+    "password": "Ij3XUKe8MNWpdkUDyTZgrYRgu5TKA8WX",
+    "database": "jmtkaocv",
+    "ssh": {}
+  },
+  "direct": true
+}
